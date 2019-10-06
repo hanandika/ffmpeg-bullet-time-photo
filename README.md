@@ -14,13 +14,6 @@ npm run dev
 # build electron application for production
 npm run build
 
-Client ID
-Client Secret
-394994168389-hvttle1tv0i9mg8lml14c431e9lega33.apps.googleusercontent.com
-x801Cs5OATnyX8LArX5_w8vp
-273125373695-s6bk9udvvg3273igsm2bhbcujgd1k1uv.apps.googleusercontent.com
-_CnMJRMJ9grSJtdOBOxGySEs
-
 
 ```
 
