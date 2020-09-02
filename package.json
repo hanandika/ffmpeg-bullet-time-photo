@@ -59,7 +59,7 @@
     "bulma": "^0.7.5",
     "chokidar": "^2.1.8",
     "fluent-ffmpeg": "^2.1.2",
-    "googleapis": "^38.0.0",
+    "googleapis": "^39.1.0",
     "jimp": "^0.6.8",
     "nedb": "^1.8.0",
     "nodemailer": "^5.1.1",
